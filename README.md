@@ -1,4 +1,4 @@
-This is a Real time clock done by multiplexing 7-segments and using Timer2 with an external clock source, Keybad and ATmega32
+This is a Real time clock done by multiplexing 7-segments and using Timer2 with an external clock source( 32768Hz ), Keybad and ATmega32
 
 Note: be mindful of interfacing the pins according to the photo, if interfaced differently then adjust .h files according to your interfaced pins
 
